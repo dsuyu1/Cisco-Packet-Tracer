@@ -1,4 +1,4 @@
-# ciscopackettracer
+# Cisco Packet Tracer
 ## Objective
 
 Cisco Packet Tracer (CPT) is a powerful network simulation tool where I'll practice networking, IoT, and cybersecurity skills in a virtual lab. The objective is to visualize how a network works, practice rack, stack, and cabling skills, plus integrate IoT devices. In this project, I'll do a series of labs, starting from the basics and working my way up to more complex topologies. <br>
