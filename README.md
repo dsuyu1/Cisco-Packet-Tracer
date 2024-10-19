@@ -1,7 +1,7 @@
 # ciscopackettracer
 ### Objective
 
-Cisco Packet Tracer (CPT) is a program dedicated to helping us map out network topologies. In this project, I'll do a series of labs, starting from the basics and working my way up to more complex diagrams. <br>
+Cisco Packet Tracer (CPT) is a tool dedicated to helping us map out network topologies. In this project, I'll do a series of labs, starting from the basics and working my way up to more complex diagrams. <br>
 <div>
 <img src="https://www.gliffy.com/sites/default/files/image/2022-08/star-topology.png" width = "500" length = "500">
 </div>
