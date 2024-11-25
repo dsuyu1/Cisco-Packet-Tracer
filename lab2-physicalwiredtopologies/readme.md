@@ -1,4 +1,4 @@
-# Lab 2: Creating Physical Wired Topologies
+# Lab #2: Creating Physical Wired Topologies
 ## Steps
 <p align="center"><img src="https://i.imgur.com/3pDwAA1.png"></p>
 <p align="center"><i>Ref 1: My starting environment.</i></p>
