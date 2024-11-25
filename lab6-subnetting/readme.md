@@ -1,4 +1,4 @@
-# Lab 6: Creating Two LANs on Different Subnets
+# Lab #6: Creating Two LANs on Different Subnets
 ## Steps
 <p align="center"><img src="https://i.imgur.com/bDSyXxJ.png"></p>
 <p align="center"><i>Ref 1: Starting environment.</i></p>
