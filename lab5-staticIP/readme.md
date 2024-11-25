@@ -1,4 +1,4 @@
-# Lab 5: Assigned Static IP Addresses to LAN
+# Lab #5: Assigned Static IP Addresses to LAN
 <p align="center"><img src="https://i.imgur.com/zp2e3L1.png"></p>
 <p align="center"><i>Ref 1: Starting environment.</i></p>
 <br>
