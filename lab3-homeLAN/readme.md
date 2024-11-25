@@ -1,4 +1,4 @@
-# Lab 3: Creating a Simple Home LAN
+# Lab #3: Creating a Simple Home LAN
 ## Steps
 <p align="center"><img src="https://i.imgur.com/9xgML7b.png"></p>
 <p align="center"><i>Ref 1: Initial environment.</i></p>
