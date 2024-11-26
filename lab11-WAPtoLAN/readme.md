@@ -4,4 +4,6 @@
 <p align="center"><i>Ref 1: Initial environment.</i></p>
 <br>
 
+First, I'll add a home router device and set it to wireless AP mode.
+
 
