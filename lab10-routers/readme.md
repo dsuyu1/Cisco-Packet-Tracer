@@ -21,6 +21,6 @@ After pinging PC #2 from PC #1, we lose some data from our ping due to network c
 We can use `tracert` to find the packet's path to get to PC #2. The output shows that the packet was not sent through Router 3 but instead hopped to Router 2. RIP uses the shortest path.
 
 <p align="center"><img src="https://i.imgur.com/pkbolT5.png"></p>
-<p align="center"><i>Final environment.</i></p>
+<p align="center"><i>Ref 4: Final environment.</i></p>
 <br>
 
