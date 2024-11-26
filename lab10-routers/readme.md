@@ -3,7 +3,7 @@
 Routing Information Protocol (RIP) is a routing protocol that uses hop count as a routing metric to find the best path between the source and the destination network. 
 
 <p align="center"><img src="https://i.imgur.com/IA53eXQ.png"></p>
-<p align="center"><i>Ref 1: Starting environment.</i></p>
+<p align="center"><i>Ref 1: Initial environment.</i></p>
 <br>
 
 We can review each router's configuration and edit their RIP routing settings. 
